@@ -1,0 +1,7 @@
+{
+    "livePreview.defaultPreviewPath": "/index.html",
+    "workbench.editor.autoLockGroups": {
+        "workbench.input.interactive": true,
+        "mainThreadWebview-markdown.preview": true
+    }
+}
